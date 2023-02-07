@@ -6,12 +6,12 @@ $stream = "http://[2409:8c20:9c71:120::34]/tencent-upcloud-live.bestvcdn.com.cn/
 $timestamp = substr(time(), 0, 9) - 7;
 $current = "#EXTM3U" . "\r\n";
 $current .= "#EXT-X-VERSION:3" . "\r\n";
-$current .= "#EXT-X-TARGETDURATION:3" . "\r\n";
+$current .= "#EXT-X-TARGETDURATION:10" . "\r\n";
 $current .= "#EXT-X-MEDIA-SEQUENCE:{$timestamp}" . "\r\n";
 for ($i = 0; $i < 3; $i++) {
     $timematch = $timestamp . '0';
     $timefirst = date('YmdH', $timematch);
-    $current .= "#EXTINF:3," . "\r\n";
+    $current .= "#EXTINF:8," . "\r\n";
     $current .= $stream . $timefirst . "/" . $timestamp . ".ts" . "\r\n";
     $timestamp = $timestamp + 1;
 }
