@@ -11,7 +11,7 @@ $current .= "#EXT-X-MEDIA-SEQUENCE:{$timestamp}" . "\r\n";
 for ($i = 0; $i < 3; $i++) {
     $timematch = $timestamp . '0';
     $timefirst = date('YmdH', $timematch);
-    $current .= "#EXTINF:8," . "\r\n";
+    $current .= "#EXTINF:10," . "\r\n";
     $current .= $stream . $timefirst . "/" . $timestamp . ".ts" . "\r\n";
     $timestamp = $timestamp + 1;
 }
