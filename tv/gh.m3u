@@ -1,219 +1,219 @@
 #EXTM3U
-#EXTINF:-1,CCTV1
-https://v1.zq0.top/gh.php?id=CCTV1HD_6000
+#EXTINF:-1,CCTv
+https://v.zq0.top/api/gh.php?id=CCTvHD_6000
 #EXTINF:-1,CCTV2
-https://v1.zq0.top/gh.php?id=CCTV2HD_6000
+https://v.zq0.top/api/gh.php?id=CCTV2HD_6000
 #EXTINF:-1,CCTV3
-https://v1.zq0.top/gh.php?id=CCTV3HD_6000
+https://v.zq0.top/api/gh.php?id=CCTV3HD_6000
 #EXTINF:-1,CCTV4
-https://v1.zq0.top/gh.php?id=CCTV4HD_6000
+https://v.zq0.top/api/gh.php?id=CCTV4HD_6000
 #EXTINF:-1,CCTV5
-https://v1.zq0.top/gh.php?id=CCTV5HD_6000
+https://v.zq0.top/api/gh.php?id=CCTV5HD_6000
 #EXTINF:-1,CCTV5+
-https://v1.zq0.top/gh.php?id=CCTV5plusHD_6000
+https://v.zq0.top/api/gh.php?id=CCTV5plusHD_6000
 #EXTINF:-1,CCTV6
-https://v1.zq0.top/gh.php?id=CCTV6HD_6000
+https://v.zq0.top/api/gh.php?id=CCTV6HD_6000
 #EXTINF:-1,CCTV7
-https://v1.zq0.top/gh.php?id=CCTV7HD_6000
+https://v.zq0.top/api/gh.php?id=CCTV7HD_6000
 #EXTINF:-1,CCTV8
-https://v1.zq0.top/gh.php?id=CCTV8HD_6000
+https://v.zq0.top/api/gh.php?id=CCTV8HD_6000
 #EXTINF:-1,CCTV9
-https://v1.zq0.top/gh.php?id=CCTV9HD_6000
-#EXTINF:-1,CCTV10
-https://v1.zq0.top/gh.php?id=CCTV10HD_6000
-#EXTINF:-1,CCTV11 标清
-https://v1.zq0.top/gh.php?id=CCTV11HD_2000
-#EXTINF:-1,CCTV12
-https://v1.zq0.top/gh.php?id=CCTV12HD_6000
-#EXTINF:-1,CCTV13 标清
-https://v1.zq0.top/gh.php?id=CCTV13HD_2000
-#EXTINF:-1,CCTV14
-https://v1.zq0.top/gh.php?id=CCTV14HD_6000
-#EXTINF:-1,CCTV15
-https://v1.zq0.top/gh.php?id=CCTV15HD_6000
-#EXTINF:-1,CCTV16
-https://v1.zq0.top/gh.php?id=CCTV16HD_6000
-#EXTINF:-1,CCTV17
-https://v1.zq0.top/gh.php?id=CCTV17HD_6000
+https://v.zq0.top/api/gh.php?id=CCTV9HD_6000
+#EXTINF:-1,CCTv0
+https://v.zq0.top/api/gh.php?id=CCTv0HD_6000
+#EXTINF:-1,CCTv1 标清
+https://v.zq0.top/api/gh.php?id=CCTv1HD_2000
+#EXTINF:-1,CCTv2
+https://v.zq0.top/api/gh.php?id=CCTv2HD_6000
+#EXTINF:-1,CCTv3 标清
+https://v.zq0.top/api/gh.php?id=CCTv3HD_2000
+#EXTINF:-1,CCTv4
+https://v.zq0.top/api/gh.php?id=CCTv4HD_6000
+#EXTINF:-1,CCTv5
+https://v.zq0.top/api/gh.php?id=CCTv5HD_6000
+#EXTINF:-1,CCTv6
+https://v.zq0.top/api/gh.php?id=CCTv6HD_6000
+#EXTINF:-1,CCTv7
+https://v.zq0.top/api/gh.php?id=CCTv7HD_6000
 #EXTINF:-1,歌华导视
-https://v1.zq0.top/gh.php?id=GeHuadaoshiHD_6000
+https://v.zq0.top/api/gh.php?id=GeHuadaoshiHD_6000
 #EXTINF:-1,CHC家庭影院 标清
-https://v1.zq0.top/gh.php?id=CHCHD_2000
+https://v.zq0.top/api/gh.php?id=CHCHD_2000
 #EXTINF:-1,CHC高清电影
-https://v1.zq0.top/gh.php?id=CHCHD2_6000
+https://v.zq0.top/api/gh.php?id=CHCHD2_6000
 #EXTINF:-1,CHC动作电影 标清
-https://v1.zq0.top/gh.php?id=MotionHD_2000
+https://v.zq0.top/api/gh.php?id=MotionHD_2000
 #EXTINF:-1,都市剧场
-https://v1.zq0.top/gh.php?id=DuShiJuChangHD_6000
+https://v.zq0.top/api/gh.php?id=DuShiJuChangHD_6000
 #EXTINF:-1,劲爆体育
-https://v1.zq0.top/gh.php?id=JinBaoTiYuHD_6000
+https://v.zq0.top/api/gh.php?id=JinBaoTiYuHD_6000
 #EXTINF:-1,浙江卫视
-https://v1.zq0.top/gh.php?id=ZheJiangHD_6000
+https://v.zq0.top/api/gh.php?id=ZheJiangHD_6000
 #EXTINF:-1,北京卫视
-https://v1.zq0.top/gh.php?id=BTV1HD_6000
+https://v.zq0.top/api/gh.php?id=BTvHD_6000
 #EXTINF:-1,广西卫视
-https://v1.zq0.top/gh.php?id=GuangXiHD_6000
+https://v.zq0.top/api/gh.php?id=GuangXiHD_6000
 #EXTINF:-1,辽宁卫视
-https://v1.zq0.top/gh.php?id=LiaoNingHD_6000
+https://v.zq0.top/api/gh.php?id=LiaoNingHD_6000
 #EXTINF:-1,安徽卫视
-https://v1.zq0.top/gh.php?id=AnHuiHD_6000
+https://v.zq0.top/api/gh.php?id=AnHuiHD_6000
 #EXTINF:-1,江苏卫视
-https://v1.zq0.top/gh.php?id=JiangSuHD_6000
+https://v.zq0.top/api/gh.php?id=JiangSuHD_6000
 #EXTINF:-1,东方卫视
-https://v1.zq0.top/gh.php?id=DongFangHD_6000
+https://v.zq0.top/api/gh.php?id=DongFangHD_6000
 #EXTINF:-1,东南卫视
-https://v1.zq0.top/gh.php?id=FuJianHD_6000
+https://v.zq0.top/api/gh.php?id=FuJianHD_6000
 #EXTINF:-1,湖南卫视
-https://v1.zq0.top/gh.php?id=HuNanHD_6000
+https://v.zq0.top/api/gh.php?id=HuNanHD_6000
 #EXTINF:-1,湖北卫视
-https://v1.zq0.top/gh.php?id=HuBeiHD_6000
+https://v.zq0.top/api/gh.php?id=HuBeiHD_6000
 #EXTINF:-1,广东卫视
-https://v1.zq0.top/gh.php?id=GuangDongHD_6000
+https://v.zq0.top/api/gh.php?id=GuangDongHD_6000
 #EXTINF:-1,广西卫视
-https://v1.zq0.top/gh.php?id=GuangXiHD_6000
+https://v.zq0.top/api/gh.php?id=GuangXiHD_6000
 #EXTINF:-1,深圳卫视
-https://v1.zq0.top/gh.php?id=ShenZhenHD_6000
+https://v.zq0.top/api/gh.php?id=ShenZhenHD_6000
 #EXTINF:-1,四川卫视
-https://v1.zq0.top/gh.php?id=SiChuanHD_6000
+https://v.zq0.top/api/gh.php?id=SiChuanHD_6000
 #EXTINF:-1,山东卫视
-https://v1.zq0.top/gh.php?id=ShanDongHD_6000
+https://v.zq0.top/api/gh.php?id=ShanDongHD_6000
 #EXTINF:-1,河南卫视
-https://v1.zq0.top/gh.php?id=HeNanHD_6000
+https://v.zq0.top/api/gh.php?id=HeNanHD_6000
 #EXTINF:-1,河北卫视
-https://v1.zq0.top/gh.php?id=HeBeiHD_6000
+https://v.zq0.top/api/gh.php?id=HeBeiHD_6000
 #EXTINF:-1,江西卫视
-https://v1.zq0.top/gh.php?id=JiangXiHD_6000
+https://v.zq0.top/api/gh.php?id=JiangXiHD_6000
 #EXTINF:-1,天津卫视
-https://v1.zq0.top/gh.php?id=TianJinHD_6000
+https://v.zq0.top/api/gh.php?id=TianJinHD_6000
 #EXTINF:-1,重庆卫视
-https://v1.zq0.top/gh.php?id=ChongQingHD_6000
+https://v.zq0.top/api/gh.php?id=ChongQingHD_6000
 #EXTINF:-1,黑龙江卫视
-https://v1.zq0.top/gh.php?id=HeiLongJiangHD_6000
+https://v.zq0.top/api/gh.php?id=HeiLongJiangHD_6000
 #EXTINF:-1,吉林卫视
-https://v1.zq0.top/gh.php?id=JiLinWeiShiHD_6000
+https://v.zq0.top/api/gh.php?id=JiLinWeiShiHD_6000
 #EXTINF:-1,海南卫视
-https://v1.zq0.top/gh.php?id=LvYouWeiShiHD_6000
+https://v.zq0.top/api/gh.php?id=LvYouWeiShiHD_6000
 #EXTINF:-1,内蒙古卫视 标清
-https://v1.zq0.top/gh.php?id=NeiMengGuHD_2000
+https://v.zq0.top/api/gh.php?id=NeiMengGuHD_2000
 #EXTINF:-1,山西卫视 标清
-https://v1.zq0.top/gh.php?id=ShanXiHD_2000
+https://v.zq0.top/api/gh.php?id=ShanXiHD_2000
 #EXTINF:-1,陕西卫视 标清
-https://v1.zq0.top/gh.php?id=ShannXiHD_2000
+https://v.zq0.top/api/gh.php?id=ShannXiHD_2000
 #EXTINF:-1,云南卫视 标清
-https://v1.zq0.top/gh.php?id=YunNanHD_2000
+https://v.zq0.top/api/gh.php?id=YunNanHD_2000
 #EXTINF:-1,兵团卫视 标清
-https://v1.zq0.top/gh.php?id=BTTVHD_2000
+https://v.zq0.top/api/gh.php?id=BTTVHD_2000
 #EXTINF:-1,贵州卫视 标清
-https://v1.zq0.top/gh.php?id=GuiZhouHD_2000
+https://v.zq0.top/api/gh.php?id=GuiZhouHD_2000
 #EXTINF:-1,青海卫视 标清
-https://v1.zq0.top/gh.php?id=QingHaiHD_2000
+https://v.zq0.top/api/gh.php?id=QingHaiHD_2000
 #EXTINF:-1,西藏卫视 标清
-https://v1.zq0.top/gh.php?id=XiZangHD_2000
+https://v.zq0.top/api/gh.php?id=XiZangHD_2000
 #EXTINF:-1,新疆卫视 标清
-https://v1.zq0.top/gh.php?id=XinJiangHD_2000
+https://v.zq0.top/api/gh.php?id=XinJiangHD_2000
 #EXTINF:-1,甘肃卫视 标清
-https://v1.zq0.top/gh.php?id=GanSuHD_2000
+https://v.zq0.top/api/gh.php?id=GanSuHD_2000
 #EXTINF:-1,厦门卫视 标清
-https://v1.zq0.top/gh.php?id=XiaMenHD_2000
+https://v.zq0.top/api/gh.php?id=XiaMenHD_2000
 #EXTINF:-1,宁夏卫视 标清
-https://v1.zq0.top/gh.php?id=NingXiaHD_2000
+https://v.zq0.top/api/gh.php?id=NingXiaHD_2000
 #EXTINF:-1,北京卫视BTV-1
-https://v1.zq0.top/gh.php?id=BTV1HD_6000
+https://v.zq0.top/api/gh.php?id=BTvHD_6000
 #EXTINF:-1,北京文艺BTV-2
-https://v1.zq0.top/gh.php?id=BTVwenyiHD_6000
+https://v.zq0.top/api/gh.php?id=BTVwenyiHD_6000
 #EXTINF:-1,北京科教BTV-3
-https://v1.zq0.top/gh.php?id=BTVKeJiaoHD_6000
+https://v.zq0.top/api/gh.php?id=BTVKeJiaoHD_6000
 #EXTINF:-1,北京科教BTV-3 标清
-https://v1.zq0.top/gh.php?id=BTV3HD_2000
+https://v.zq0.top/api/gh.php?id=BTV3HD_2000
 #EXTINF:-1,北京影视BTV-4
-https://v1.zq0.top/gh.php?id=BTV4HD_6000
+https://v.zq0.top/api/gh.php?id=BTV4HD_6000
 #EXTINF:-1,北京财经BTV-5
-https://v1.zq0.top/gh.php?id=BTVCaiJingHD_6000
+https://v.zq0.top/api/gh.php?id=BTVCaiJingHD_6000
 #EXTINF:-1,北京财经BTV-5 标清
-https://v1.zq0.top/gh.php?id=BTV5HD_2000
+https://v.zq0.top/api/gh.php?id=BTV5HD_2000
 #EXTINF:-1,北京体育休闲BTV-6
-https://v1.zq0.top/gh.php?id=BTVjishiHD_6000
+https://v.zq0.top/api/gh.php?id=BTVjishiHD_6000
 #EXTINF:-1,北京生活BTV-7
-https://v1.zq0.top/gh.php?id=BTVShengHuoHD_6000
+https://v.zq0.top/api/gh.php?id=BTVShengHuoHD_6000
 #EXTINF:-1,北京生活BTV-7 标清
-https://v1.zq0.top/gh.php?id=BTV7HD_2000
+https://v.zq0.top/api/gh.php?id=BTV7HD_2000
 #EXTINF:-1,北京青年BTV-8
-https://v1.zq0.top/gh.php?id=BTVQingNianHD_6000
+https://v.zq0.top/api/gh.php?id=BTVQingNianHD_6000
 #EXTINF:-1,北京青年BTV-8 标清
-https://v1.zq0.top/gh.php?id=BTV8HD_2000
+https://v.zq0.top/api/gh.php?id=BTV8HD_2000
 #EXTINF:-1,北京新闻BTV-9
-https://v1.zq0.top/gh.php?id=BTV9HD_6000
+https://v.zq0.top/api/gh.php?id=BTV9HD_6000
 #EXTINF:-1,北京卡酷BTV-10 标清
-https://v1.zq0.top/gh.php?id=BTV10HD_2000
+https://v.zq0.top/api/gh.php?id=BTv0HD_2000
 #EXTINF:-1,京视剧场 标清
-https://v1.zq0.top/gh.php?id=JinShiJuChangHD_2000
+https://v.zq0.top/api/gh.php?id=JinShiJuChangHD_2000
 #EXTINF:-1,生态环境 标清
-https://v1.zq0.top/gh.php?id=XinYuLeHD_2000
+https://v.zq0.top/api/gh.php?id=XinYuLeHD_2000
 #EXTINF:-1,中国天气 标清
-https://v1.zq0.top/gh.php?id=ChinaQiXiangPinDaoHD_2000
+https://v.zq0.top/api/gh.php?id=ChinaQiXiangPinDaoHD_2000
 #EXTINF:-1,乐游
-https://v1.zq0.top/gh.php?id=QuanJiShiHD_6000
-#EXTINF:-1,CETV1
-https://v1.zq0.top/gh.php?id=CETV1HD_6000
+https://v.zq0.top/api/gh.php?id=QuanJiShiHD_6000
+#EXTINF:-1,CETv
+https://v.zq0.top/api/gh.php?id=CETvHD_6000
 #EXTINF:-1,CETV3 标清
-https://v1.zq0.top/gh.php?id=CETV3HD_2000
+https://v.zq0.top/api/gh.php?id=CETV3HD_2000
 #EXTINF:-1,CETV4 标清
-https://v1.zq0.top/gh.php?id=CETV4HD_2000
+https://v.zq0.top/api/gh.php?id=CETV4HD_2000
 #EXTINF:-1,早期教育 标清
-https://v1.zq0.top/gh.php?id=ZaoQiJiaoYuHD_2000
+https://v.zq0.top/api/gh.php?id=ZaoQiJiaoYuHD_2000
 #EXTINF:-1,爱家购物
-https://v1.zq0.top/gh.php?id=AiJiaGouWuHD_6000
+https://v.zq0.top/api/gh.php?id=AiJiaGouWuHD_6000
 #EXTINF:-1,时尚购物 标清
-https://v1.zq0.top/gh.php?id=ShiShangGouWuHD_2000
+https://v.zq0.top/api/gh.php?id=ShiShangGouWuHD_2000
 #EXTINF:-1,优购物 标清
-https://v1.zq0.top/gh.php?id=YouGouWuHD_2000
+https://v.zq0.top/api/gh.php?id=YouGouWuHD_2000
 #EXTINF:-1,家有购物 标清
-https://v1.zq0.top/gh.php?id=JiaYouGouWuHD_2000
+https://v.zq0.top/api/gh.php?id=JiaYouGouWuHD_2000
 #EXTINF:-1,动漫秀场
-https://v1.zq0.top/gh.php?id=DongManXiuChangHD_6000
+https://v.zq0.top/api/gh.php?id=DongManXiuChangHD_6000
 #EXTINF:-1,游戏风云
-https://v1.zq0.top/gh.php?id=YouXiFengYunHD_6000
+https://v.zq0.top/api/gh.php?id=YouXiFengYunHD_6000
 #EXTINF:-1,四海钓鱼 标清
-https://v1.zq0.top/gh.php?id=SiHaiDiaoYuHD_2000
+https://v.zq0.top/api/gh.php?id=SiHaiDiaoYuHD_2000
 #EXTINF:-1,法治天地 标清
-https://v1.zq0.top/gh.php?id=FaZhiTianDiHD_2000
+https://v.zq0.top/api/gh.php?id=FaZhiTianDiHD_2000
 #EXTINF:-1,置业频道 标清
-https://v1.zq0.top/gh.php?id=ZhiYePinDaoHD_2000
+https://v.zq0.top/api/gh.php?id=ZhiYePinDaoHD_2000
 #EXTINF:-1,中华美食 标清
-https://v1.zq0.top/gh.php?id=ZhongHuaMeiShiHD_2000
+https://v.zq0.top/api/gh.php?id=ZhongHuaMeiShiHD_2000
 #EXTINF:-1,环球旅游 标清
-https://v1.zq0.top/gh.php?id=HuanQiuLvYouHD_2000
+https://v.zq0.top/api/gh.php?id=HuanQiuLvYouHD_2000
 #EXTINF:-1,中视购物 标清
-https://v1.zq0.top/gh.php?id=ZhongShiGouWuHD_2000
+https://v.zq0.top/api/gh.php?id=ZhongShiGouWuHD_2000
 #EXTINF:-1,央广购物 标清
-https://v1.zq0.top/gh.php?id=YangShiGouWuHD_2000
+https://v.zq0.top/api/gh.php?id=YangShiGouWuHD_2000
 #EXTINF:-1,聚鲨环球精选
-https://v1.zq0.top/gh.php?id=GHSHD_6000
+https://v.zq0.top/api/gh.php?id=GHSHD_6000
 #EXTINF:-1,动感音乐 标清
-https://v1.zq0.top/gh.php?id=DongGanYinYueHD_2000
+https://v.zq0.top/api/gh.php?id=DongGanYinYueHD_2000
 #EXTINF:-1,收藏天下 标清
-https://v1.zq0.top/gh.php?id=ShouCangTianXiaHD_2000
+https://v.zq0.top/api/gh.php?id=ShouCangTianXiaHD_2000
 #EXTINF:-1,东方财经
-https://v1.zq0.top/gh.php?id=DongFangCaiJingHD_6000
+https://v.zq0.top/api/gh.php?id=DongFangCaiJingHD_6000
 #EXTINF:-1,中华特产 标清
-https://v1.zq0.top/gh.php?id=KaoShiZaiXianHD_2000
+https://v.zq0.top/api/gh.php?id=KaoShiZaiXianHD_2000
 #EXTINF:-1,优优宝贝 标清
-https://v1.zq0.top/gh.php?id=YouYouBaoBeiHD_2000
+https://v.zq0.top/api/gh.php?id=YouYouBaoBeiHD_2000
 #EXTINF:-1,弈坛春秋 标清
-https://v1.zq0.top/gh.php?id=YiTanChunQiuHD_2000
+https://v.zq0.top/api/gh.php?id=YiTanChunQiuHD_2000
 #EXTINF:-1,老故事 标清
-https://v1.zq0.top/gh.php?id=LaoGuShiHD_2000
+https://v.zq0.top/api/gh.php?id=LaoGuShiHD_2000
 #EXTINF:-1,发现之旅 标清
-https://v1.zq0.top/gh.php?id=FaXianZhiLvHD_2000
+https://v.zq0.top/api/gh.php?id=FaXianZhiLvHD_2000
 #EXTINF:-1,财富天下 标清
-https://v1.zq0.top/gh.php?id=CaiFuTianXiaHD_2000
+https://v.zq0.top/api/gh.php?id=CaiFuTianXiaHD_2000
 #EXTINF:-1,环球奇观 标清
-https://v1.zq0.top/gh.php?id=HuanQiuQiGuanHD_2000
+https://v.zq0.top/api/gh.php?id=HuanQiuQiGuanHD_2000
 #EXTINF:-1,天元围棋 标清
-https://v1.zq0.top/gh.php?id=TianYuanWeiQiHD_2000
+https://v.zq0.top/api/gh.php?id=TianYuanWeiQiHD_2000
 #EXTINF:-1,书画频道 标清
-https://v1.zq0.top/gh.php?id=ShuHuaPinDaoHD_2000
+https://v.zq0.top/api/gh.php?id=ShuHuaPinDaoHD_2000
 #EXTINF:-1,茶频道 标清
-https://v1.zq0.top/gh.php?id=ChaPinDaoHD_2000
+https://v.zq0.top/api/gh.php?id=ChaPinDaoHD_2000
 #EXTINF:-1,足球频道
-https://v1.zq0.top/gh.php?id=ZuQiuHD_6000
+https://v.zq0.top/api/gh.php?id=ZuQiuHD_6000
