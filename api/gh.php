@@ -2,7 +2,7 @@
     date_default_timezone_set('PRC');
     error_reporting(0);
     $_获取播放频道 = strstr($_GET['id'], "_") ? trim($_GET['id']) : die(http_response_code(404));
-    $_流媒体地址 = "http://hls.yun.gehua.net.cn:8088/live/ipcdn,".$_获取播放频道."K/";
+    $_流媒体地址 = "http://hls.yun.gehua.net.cn/live/ipcdn,".$_获取播放频道."K/";
     $_流媒体播放时间 = intval((time() - 60)/6);
     $_播放列表 = "#EXTM3U"."\r\n";
     $_播放列表.= "#EXT-X-VERSION:3"."\r\n";
