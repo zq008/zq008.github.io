@@ -1,15 +1,8 @@
 {
   "functions": {
     "api/*.php": {
-      "runtime": "vercel-php@0.5.2",
+      "runtime": "vercel-php@0.6.0",
       "excludeFiles": "{test/**}"
     }
   }
-}
-{
-  "version": 2,
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "status": 404, "dest": "/404.html" }
-  ]
 }
