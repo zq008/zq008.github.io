@@ -13,6 +13,6 @@
         $current.= $stream.rtrim(chunk_split($timestamp, 3, "/"), "/").".ts"."\r\n";
         $timestamp = $timestamp + 1;
     }
-    header("Content-Type: audio/x-mpegurl");
+    header("Content-Disposition: attachment; filename=1.m3u8");
     echo $current;
 ?>
