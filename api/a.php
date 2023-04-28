@@ -7,7 +7,7 @@
     $current.= "#EXT-X-VERSION:3"."\r\n";
     $current.= "#EXT-X-TARGETDURATION:6"."\r\n";
     $current.= "#EXT-X-MEDIA-SEQUENCE:{$timestamp}"."\r\n";
-    for ($i=0; $i<3; $i++)
+    for ($i=0; $i<2; $i++)
     {
         $current.= "#EXTINF:6,"."\r\n";
         $current.= $stream.rtrim(chunk_split($timestamp, 3, "/"), "/").".ts"."\r\n";
